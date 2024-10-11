@@ -35,3 +35,5 @@ format:
   - Licong Lin, Yu Bai, Song Mei
 - [Structured State Space Models for In-Context Reinforcement Learning](https://arxiv.org/abs/2303.03982)
   - Chris Lu, Yannick Schroecker, Albert Gu, Emilio Parisotto, Jakob Foerster, Satinder Singh, Feryal Behbahani
+- [LLMs Are In-Context Reinforcement Learners](https://arxiv.org/abs/2410.05362)
+  - Giovanni Monea, Antoine Bosselut, Kianté Brantley, Yoav Artzi
