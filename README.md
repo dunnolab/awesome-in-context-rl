@@ -37,3 +37,5 @@ format:
   - Chris Lu, Yannick Schroecker, Albert Gu, Emilio Parisotto, Jakob Foerster, Satinder Singh, Feryal Behbahani
 - [LLMs Are In-Context Reinforcement Learners](https://arxiv.org/abs/2410.05362)
   - Giovanni Monea, Antoine Bosselut, Kianté Brantley, Yoav Artzi
+- [EVOLvE: Evaluating and Optimizing LLMs For Exploration](https://arxiv.org/abs/2410.06238)
+  - Allen Nie, Yi Su, Bo Chang, Jonathan N. Lee, Ed H. Chi, Quoc V. Le, Minmin Chen
