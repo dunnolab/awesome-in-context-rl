@@ -39,3 +39,7 @@ format:
   - Giovanni Monea, Antoine Bosselut, Kianté Brantley, Yoav Artzi
 - [EVOLvE: Evaluating and Optimizing LLMs For Exploration](https://arxiv.org/abs/2410.06238)
   - Allen Nie, Yi Su, Bo Chang, Jonathan N. Lee, Ed H. Chi, Quoc V. Le, Minmin Chen
+- [In-Context Decision Transformer: Reinforcement Learning via Hierarchical Chain-of-Thought](https://arxiv.org/abs/2405.20692)
+  - Sili Huang, Jifeng Hu, Hechang Chen, Lichao Sun, Bo Yang
+- [Retrieval-Augmented Decision Transformer: External Memory for In-context RL](https://arxiv.org/abs/2410.07071)
+  - Thomas Schmied, Fabian Paischer, Vihang Patil, Markus Hofmarcher, Razvan Pascanu, Sepp Hochreiter
