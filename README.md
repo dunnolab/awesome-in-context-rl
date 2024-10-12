@@ -43,3 +43,21 @@ format:
   - Sili Huang, Jifeng Hu, Hechang Chen, Lichao Sun, Bo Yang
 - [Retrieval-Augmented Decision Transformer: External Memory for In-context RL](https://arxiv.org/abs/2410.07071)
   - Thomas Schmied, Fabian Paischer, Vihang Patil, Markus Hofmarcher, Razvan Pascanu, Sepp Hochreiter
+- [Human-Timescale Adaptation in an Open-Ended Task Space](https://arxiv.org/abs/2301.07608)
+  - Adaptive Agent Team, Jakob Bauer, Kate Baumli, Satinder Baveja, Feryal Behbahani, Avishkar Bhoopchand, Nathalie Bradley-Schmieg, Michael Chang, Natalie Clay, Adrian Collister, Vibhavari Dasagi, Lucy Gonzalez, Karol Gregor, Edward Hughes, Sheleem Kashem, Maria Loks-Thompson, Hannah Openshaw, Jack Parker-Holder, Shreya Pathak, Nicolas Perez-Nieves, Nemanja Rakicevic, Tim Rocktäschel, Yannick Schroecker, Jakub Sygnowski, Karl Tuyls, Sarah York, Alexander Zacherl, Lei Zhang
+- [Generalization to New Sequential Decision Making Tasks with In-Context Learning](https://arxiv.org/abs/2312.03801)
+  - Sharath Chandra Raparthy, Eric Hambro, Robert Kirk, Mikael Henaff, Roberta Raileanu
+- [Large Language Models can Implement Policy Iteration](https://arxiv.org/abs/2210.03821)
+  - Ethan Brooks, Logan Walls, Richard L. Lewis, Satinder Singh
+- [Learning How to Infer Partial MDPs for In-Context Adaptation and Exploration](https://arxiv.org/abs/2302.04250)
+  - Chentian Jiang, Nan Rosemary Ke, Hado van Hasselt
+- [Towards General-Purpose In-Context Learning Agents](https://openreview.net/forum?id=zDTqQVGgzH)
+  - Louis Kirsch, James Harrison, C. Daniel Freeman, Jascha Sohl-Dickstein, Jürgen Schmidhuber
+- [Large Language Models as General Pattern Machines](https://arxiv.org/abs/2307.04721)
+  - Suvir Mirchandani, Fei Xia, Pete Florence, Brian Ichter, Danny Driess, Montserrat Gonzalez Arenas, Kanishka Rao, Dorsa Sadigh, Andy Zeng
+- [Cross-Episodic Curriculum for Transformer Agents](https://arxiv.org/abs/2310.08549)
+  - Lucy Xiaoyang Shi, Yunfan Jiang, Jake Grigsby, Linxi "Jim" Fan, Yuke Zhu
+- [First-Explore, then Exploit: Meta-Learning Intelligent Exploration](https://arxiv.org/abs/2307.02276)
+  - Ben Norman, Jeff Clune
+- [Meta-Reinforcement Learning Robust to Distributional Shift Via Performing Lifelong In-Context Learning](https://proceedings.mlr.press/v235/xu24o.html)
+  - Tengye Xu, Zihao Li, Qinyuan Ren
