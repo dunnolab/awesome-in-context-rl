@@ -61,3 +61,6 @@ format:
   - Ben Norman, Jeff Clune
 - [Meta-Reinforcement Learning Robust to Distributional Shift Via Performing Lifelong In-Context Learning](https://proceedings.mlr.press/v235/xu24o.html)
   - Tengye Xu, Zihao Li, Qinyuan Ren
+- [Supervised Pretraining Can Learn In-Context Reinforcement Learning](https://proceedings.neurips.cc/paper_files/paper/2023/file/8644b61a9bc87bf7844750a015feb600-Paper-Conference.pdf)
+  - Jonathan N. Lee, Annie Xie, Aldo Pacchiano, Yash Chandak, Chelsea Finn, Ofir Nachum, Emma Brunskill
+
