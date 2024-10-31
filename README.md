@@ -61,3 +61,7 @@ format:
   - Ben Norman, Jeff Clune
 - [Meta-Reinforcement Learning Robust to Distributional Shift Via Performing Lifelong In-Context Learning](https://proceedings.mlr.press/v235/xu24o.html)
   - Tengye Xu, Zihao Li, Qinyuan Ren
+- [Artificial Generational Intelligence: Cultural Accumulation in Reinforcement Learning](https://arxiv.org/abs/2406.00392)
+  - Jonathan Cook, Chris Lu, Edward Hughes, Joel Z. Leibo, Jakob Foerster
+- [Large Language Models As Evolution Strategies](https://arxiv.org/abs/2402.18381)
+  - Robert Tjarko Lange, Yingtao Tian, Yujin Tang 
