@@ -64,4 +64,12 @@ format:
 - [Artificial Generational Intelligence: Cultural Accumulation in Reinforcement Learning](https://arxiv.org/abs/2406.00392)
   - Jonathan Cook, Chris Lu, Edward Hughes, Joel Z. Leibo, Jakob Foerster
 - [Large Language Models As Evolution Strategies](https://arxiv.org/abs/2402.18381)
-  - Robert Tjarko Lange, Yingtao Tian, Yujin Tang 
+  - Robert Tjarko Lange, Yingtao Tian, Yujin Tang
+- [Can Large Language Models Explore In-Context?](https://arxiv.org/pdf/2403.15371)
+  - Akshay Krishnamurthy, Keegan Harris, Dylan J. Foster, Cyril Zhang, Aleksandrs Slivkins
+- [SAD: State-Action Distillation for In-Context Reinforcement Learning under Random Policies](https://arxiv.org/pdf/2410.19982)
+  - Weiqin Chen, Santiago Paternain
+- [Pretraining Decision Transformers with Reward Prediction for In-Context Multi-task Structured Bandit Learning](https://arxiv.org/pdf/2406.05064)
+  - Subhojyoti Mukherjee, Josiah P. Hanna, Qiaomin Xie, Robert Nowak
+- [Transformers Learn Temporal Difference Methods for In-Context Reinforcement Learning](https://arxiv.org/pdf/2405.13861)
+  - Jiuqi Wang, Ethan Blaser, Hadi Daneshmand, Shangtong Zhang
