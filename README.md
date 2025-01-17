@@ -31,6 +31,8 @@ format:
   - Can Demircan, Tankred Saanum, Akshay K. Jagadish, Marcel Binz, Eric Schulz
 - [AMAGO: Scalable In-Context Reinforcement Learning for Adaptive Agents](https://arxiv.org/abs/2310.09971)
   - Jake Grigsby, Linxi Fan, Yuke Zhu
+- [AMAGO-2: Breaking the Multi-Task Barrier in Meta-Reinforcement Learning with Transformers](https://arxiv.org/abs/2411.11188)
+  - Jake Grigsby, Justin Sasek, Samyak Parajuli, Daniel Adebi, Amy Zhang, Yuke Zhu
 - [Transformers as Decision Makers: Provable In-Context Reinforcement Learning via Supervised Pretraining](https://arxiv.org/abs/2310.08566)
   - Licong Lin, Yu Bai, Song Mei
 - [Structured State Space Models for In-Context Reinforcement Learning](https://arxiv.org/abs/2303.03982)
