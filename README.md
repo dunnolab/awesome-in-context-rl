@@ -17,6 +17,8 @@ format:
   - Michael Laskin, Luyu Wang, Junhyuk Oh, Emilio Parisotto, Stephen Spencer, Richie Steigerwald, DJ Strouse, Steven Hansen, Angelos Filos, Ethan Brooks, Maxime Gazeau, Himanshu Sahni, Satinder Singh, Volodymyr Mnih
 - [Supervised Pretraining Can Learn In-Context Reinforcement Learning](https://arxiv.org/abs/2306.14892)
   - Jonathan N. Lee, Annie Xie, Aldo Pacchiano, Yash Chandak, Chelsea Finn, Ofir Nachum, Emma Brunskill
+- [Vintix: Action Model via In-Context Reinforcement Learning](https://arxiv.org/abs/2501.19400)
+  - Andrey Polubarov, Nikita Lyubaykin, Alexander Derevyagin, Ilya Zisman, Denis Tarasov, Alexander Nikulin, Vladislav Kurenkov
 - [Emergence of In-Context Reinforcement Learning from Noise Distillation](https://arxiv.org/abs/2312.12275)
   - Ilya Zisman, Vladislav Kurenkov, Alexander Nikulin, Viacheslav Sinii, Sergey Kolesnikov 
 - [In-Context Reinforcement Learning for Variable Action Spaces](https://arxiv.org/abs/2312.13327)
