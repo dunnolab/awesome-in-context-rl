@@ -43,6 +43,8 @@ format:
   - Allen Nie, Yi Su, Bo Chang, Jonathan N. Lee, Ed H. Chi, Quoc V. Le, Minmin Chen
 - [In-Context Decision Transformer: Reinforcement Learning via Hierarchical Chain-of-Thought](https://arxiv.org/abs/2405.20692)
   - Sili Huang, Jifeng Hu, Hechang Chen, Lichao Sun, Bo Yang
+- [Decision Mamba: Reinforcement Learning via Hybrid Selective Sequence Modeling](https://arxiv.org/abs/2406.00079)
+  - Sili Huang, Jifeng Hu, Zhejian Yang, Liwei Yang, Tao Luo, Hechang Chen, Lichao Sun, Bo Yang
 - [Retrieval-Augmented Decision Transformer: External Memory for In-context RL](https://arxiv.org/abs/2410.07071)
   - Thomas Schmied, Fabian Paischer, Vihang Patil, Markus Hofmarcher, Razvan Pascanu, Sepp Hochreiter
 - [Human-Timescale Adaptation in an Open-Ended Task Space](https://arxiv.org/abs/2301.07608)
@@ -67,11 +69,11 @@ format:
   - Jonathan Cook, Chris Lu, Edward Hughes, Joel Z. Leibo, Jakob Foerster
 - [Large Language Models As Evolution Strategies](https://arxiv.org/abs/2402.18381)
   - Robert Tjarko Lange, Yingtao Tian, Yujin Tang
-- [Can Large Language Models Explore In-Context?](https://arxiv.org/pdf/2403.15371)
+- [Can Large Language Models Explore In-Context?](https://arxiv.org/abs/2403.15371)
   - Akshay Krishnamurthy, Keegan Harris, Dylan J. Foster, Cyril Zhang, Aleksandrs Slivkins
-- [SAD: State-Action Distillation for In-Context Reinforcement Learning under Random Policies](https://arxiv.org/pdf/2410.19982)
+- [SAD: State-Action Distillation for In-Context Reinforcement Learning under Random Policies](https://arxiv.org/abs/2410.19982)
   - Weiqin Chen, Santiago Paternain
-- [Pretraining Decision Transformers with Reward Prediction for In-Context Multi-task Structured Bandit Learning](https://arxiv.org/pdf/2406.05064)
+- [Pretraining Decision Transformers with Reward Prediction for In-Context Multi-task Structured Bandit Learning](https://arxiv.org/abs/2406.05064)
   - Subhojyoti Mukherjee, Josiah P. Hanna, Qiaomin Xie, Robert Nowak
-- [Transformers Learn Temporal Difference Methods for In-Context Reinforcement Learning](https://arxiv.org/pdf/2405.13861)
+- [Transformers Learn Temporal Difference Methods for In-Context Reinforcement Learning](https://arxiv.org/abs/2405.13861)
   - Jiuqi Wang, Ethan Blaser, Hadi Daneshmand, Shangtong Zhang
