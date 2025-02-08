@@ -79,3 +79,7 @@ format:
   - Subhojyoti Mukherjee, Josiah P. Hanna, Qiaomin Xie, Robert Nowak
 - [Transformers Learn Temporal Difference Methods for In-Context Reinforcement Learning](https://arxiv.org/abs/2405.13861)
   - Jiuqi Wang, Ethan Blaser, Hadi Daneshmand, Shangtong Zhang
+- [RL + Transformer = A General-Purpose Problem Solver](https://arxiv.org/abs/2501.14176)
+  - Micah Rentschler, Jesse Roberts
+- [GUI-Bee: Align GUI Action Grounding to Novel Environments via Autonomous Exploration](https://arxiv.org/abs/2501.13896)
+  - Yue Fan, Handong Zhao, Ruiyi Zhang, Yu Shen, Xin Eric Wang, Gang Wu
