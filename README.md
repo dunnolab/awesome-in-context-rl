@@ -79,3 +79,5 @@ format:
   - Subhojyoti Mukherjee, Josiah P. Hanna, Qiaomin Xie, Robert Nowak
 - [Transformers Learn Temporal Difference Methods for In-Context Reinforcement Learning](https://arxiv.org/abs/2405.13861)
   - Jiuqi Wang, Ethan Blaser, Hadi Daneshmand, Shangtong Zhang
+- [OmniRL: In-Context Reinforcement Learning by Large-Scale Meta-Training in Randomized Worlds](https://arxiv.org/abs/2502.02869)
+  - Wang, Fan, Pengtao Shao, Yiming Zhang, Bo Yu, Shaoshan Liu, Ning Ding, Yang Cao, Yu Kang, and Haifeng Wang
