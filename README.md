@@ -25,6 +25,8 @@ format:
   - Viacheslav Sinii, Alexander Nikulin, Vladislav Kurenkov, Ilya Zisman, Sergey Kolesnikov
 - [In-Context Reinforcement Learning Without Optimal Action Labels](https://openreview.net/forum?id=8Dey9wo2qA)
   - Juncheng Dong, Moyang Guo, Ethan X Fang, Zhuoran Yang, Vahid Tarokh
+- [Yes, Q-learning Helps Offline In-Context RL](https://arxiv.org/abs/2502.17666)
+  - Denis Tarasov, Alexander Nikulin, Ilya Zisman, Albina Klepach, Andrei Polubarov, Nikita Lyubaykin, Alexander Derevyagin, Igor Kiselev, Vladislav Kurenkov
 - [XLand-100B: A Large-Scale Multi-Task Dataset for In-Context Reinforcement Learning](https://arxiv.org/abs/2406.08973)
   - Alexander Nikulin, Ilya Zisman, Alexey Zemtsov, Viacheslav Sinii, Vladislav Kurenkov, Sergey Kolesnikov
 - [ReLIC: A Recipe for 64k Steps of In-Context Reinforcement Learning for Embodied AI](https://arxiv.org/abs/2410.02751)
