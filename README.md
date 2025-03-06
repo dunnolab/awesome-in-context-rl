@@ -83,3 +83,5 @@ format:
   - Jiuqi Wang, Ethan Blaser, Hadi Daneshmand, Shangtong Zhang
 - [OmniRL: In-Context Reinforcement Learning by Large-Scale Meta-Training in Randomized Worlds](https://arxiv.org/abs/2502.02869)
   - Wang, Fan, Pengtao Shao, Yiming Zhang, Bo Yu, Shaoshan Liu, Ning Ding, Yang Cao, Yu Kang, and Haifeng Wang
+- [LMAct: A Benchmark for In-Context Imitation Learning with Long Multimodal Demonstrations](https://arxiv.org/abs/2412.01441)
+  - Anian Ruoss, Fabio Pardo, Harris Chan, Bonnie Li, Volodymyr Mnih, Tim Genewein
