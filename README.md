@@ -13,6 +13,8 @@ format:
 ```
 
 ## Papers
+- [A **Survey** of In-Context Reinforcement Learning](https://arxiv.org/abs/2502.07978)
+  - Amir Moeini, Jiuqi Wang, Jacob Beck, Ethan Blaser, Shimon Whiteson, Rohan Chandra, Shangtong Zhang
 - [In-context Reinforcement Learning with Algorithm Distillation](https://arxiv.org/abs/2210.14215)
   - Michael Laskin, Luyu Wang, Junhyuk Oh, Emilio Parisotto, Stephen Spencer, Richie Steigerwald, DJ Strouse, Steven Hansen, Angelos Filos, Ethan Brooks, Maxime Gazeau, Himanshu Sahni, Satinder Singh, Volodymyr Mnih
 - [Supervised Pretraining Can Learn In-Context Reinforcement Learning](https://arxiv.org/abs/2306.14892)
