@@ -66,9 +66,9 @@ format:
 - [Emergence of In-Context Reinforcement Learning from Noise Distillation](https://arxiv.org/abs/2312.12275)
   - Ilya Zisman, Vladislav Kurenkov, Alexander Nikulin, Viacheslav Sinii, Sergey Kolesnikov 
 - [In-Context Reinforcement Learning for Variable Action Spaces](https://arxiv.org/abs/2312.13327)
+  - Viacheslav Sinii, Alexander Nikulin, Vladislav Kurenkov, Ilya Zisman, Sergey Kolesnikov
 - [AMAGO: Scalable In-Context Reinforcement Learning for Adaptive Agents](https://arxiv.org/abs/2310.09971)
   - Jake Grigsby, Linxi Fan, Yuke Zhu
-  - Viacheslav Sinii, Alexander Nikulin, Vladislav Kurenkov, Ilya Zisman, Sergey Kolesnikov
 - [Cross-Episodic Curriculum for Transformer Agents](https://arxiv.org/abs/2310.08549)
   - Lucy Xiaoyang Shi, Yunfan Jiang, Jake Grigsby, Linxi "Jim" Fan, Yuke Zhu
 - [Transformers as Decision Makers: Provable In-Context Reinforcement Learning via Supervised Pretraining](https://arxiv.org/abs/2310.08566)
