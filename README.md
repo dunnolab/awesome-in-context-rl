@@ -22,6 +22,8 @@ format:
   - Denis Tarasov, Alexander Nikulin, Ilya Zisman, Albina Klepach, Andrei Polubarov, Nikita Lyubaykin, Alexander Derevyagin, Igor Kiselev, Vladislav Kurenkov
 - [Vintix: Action Model via In-Context Reinforcement Learning](https://arxiv.org/abs/2501.19400)
   - Andrey Polubarov, Nikita Lyubaykin, Alexander Derevyagin, Ilya Zisman, Denis Tarasov, Alexander Nikulin, Vladislav Kurenkov
+- [Training a Generally Curious Agent](https://arxiv.org/abs/2502.17543)
+  - Fahim Tajwar, Yiding Jiang, Abitha Thankaraj, Sumaita Sadia Rahman, J Zico Kolter, Jeff Schneider, Ruslan Salakhutdinov
 
 ### 2024
 - [LMAct: A Benchmark for In-Context Imitation Learning with Long Multimodal Demonstrations](https://arxiv.org/abs/2412.01441)
