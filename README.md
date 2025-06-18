@@ -14,6 +14,8 @@ format:
 
 ## Papers
 ### 2025
+- [Filtering Learning Histories Enhances In-Context Reinforcement Learning](https://arxiv.org/pdf/2505.15143)
+  - Weiqin Chen, Xinjie Zhang, Dharmashankar Subramanian, Santiago Paternain
 - [OmniRL: In-Context Reinforcement Learning by Large-Scale Meta-Training in Randomized Worlds](https://arxiv.org/abs/2502.02869)
   - Wang, Fan, Pengtao Shao, Yiming Zhang, Bo Yu, Shaoshan Liu, Ning Ding, Yang Cao, Yu Kang, and Haifeng Wang
 - [A **Survey** of In-Context Reinforcement Learning](https://arxiv.org/abs/2502.07978)
@@ -42,7 +44,7 @@ format:
   - Ahmad Elawady, Gunjan Chhablani, Ram Ramrakhya, Karmesh Yadav, Dhruv Batra, Zsolt Kira, Andrew Szot
 - [Retrieval-Augmented Decision Transformer: External Memory for In-context RL](https://arxiv.org/abs/2410.07071)
   - Thomas Schmied, Fabian Paischer, Vihang Patil, Markus Hofmarcher, Razvan Pascanu, Sepp Hochreiter
-- [SAD: State-Action Distillation for In-Context Reinforcement Learning under Random Policies](https://arxiv.org/abs/2410.19982)
+- [Random Policy Enables In-Context Reinforcement Learning within Trust Horizons](https://arxiv.org/pdf/2410.19982)
   - Weiqin Chen, Santiago Paternain
 - [Artificial Generational Intelligence: Cultural Accumulation in Reinforcement Learning](https://arxiv.org/abs/2406.00392)
   - Jonathan Cook, Chris Lu, Edward Hughes, Joel Z. Leibo, Jakob Foerster
