@@ -13,7 +13,15 @@ format:
 ```
 
 ## Papers
+### 2026
+- [AdaTracker: Learning Adaptive In-Context Policy for Cross-Embodiment Active Visual Tracking](https://arxiv.org/abs/2604.20305)
+  - Kui Wu, Hao Chen, Jinzhu Han, Haijun Liu, Churan Wang, Yizhou Wang, Zhoujun Li, Si Liu, Fangwei Zhong
+
 ### 2025
+- [Reinforced Context Order Recovery for Adaptive Reasoning and Planning](https://neurips.cc/virtual/2025/poster/116445)
+  - Long Ma, Fangwei Zhong, Yizhou Wang
+- [Behavior-agnostic Task Inference for Robust Offline In-context Reinforcement Learning](https://openreview.net/pdf?id=jMKaATBEKb)
+  - Long Ma, Fangwei Zhong, Yizhou Wang
 - [In-Context Reinforcement Learning via Communicative World Models](https://arxiv.org/abs/2508.06659)
   - Fernando Martinez-Lopez, Tao Li, Yingdong Lu, Juntao Chen
 - [Reward Is Enough: LLMs Are In-Context Reinforcement Learners](https://arxiv.org/abs/2506.06303)
@@ -32,6 +40,8 @@ format:
   - Fahim Tajwar, Yiding Jiang, Abitha Thankaraj, Sumaita Sadia Rahman, J Zico Kolter, Jeff Schneider, Ruslan Salakhutdinov
 
 ### 2024
+- [Fast Peer Adaptation with Context-aware Exploration](https://proceedings.mlr.press/v235/ma24n.html)
+  - Long Ma, Yuanfei Wang, Fangwei Zhong, Song-Chun Zhu, Yizhou Wang
 - [LMAct: A Benchmark for In-Context Imitation Learning with Long Multimodal Demonstrations](https://arxiv.org/abs/2412.01441)
   - Anian Ruoss, Fabio Pardo, Harris Chan, Bonnie Li, Volodymyr Mnih, Tim Genewein
 - [Meta-Reinforcement Learning Robust to Distributional Shift Via Performing Lifelong In-Context Learning](https://proceedings.mlr.press/v235/xu24o.html)
