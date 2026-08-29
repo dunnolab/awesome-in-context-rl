@@ -12,8 +12,23 @@ format:
   - author1, author2, and author3...
 ```
 
+
 ## Papers
+
+### 2026
+- [Mixture-of-experts meets in-context reinforcement learning](https://proceedings.neurips.cc/paper_files/paper/2025/file/233cbc888ef01917d8d895e471e80a01-Paper-Conference.pdf)
+  - Wenhao Wu, Fuhong Liu, Haoru Li, Zican Hu, Daoyi Dong, Chunlin Chen, Zhi Wang
+- [Towards large-scale in-context reinforcement learning by meta-training in randomized worlds](https://proceedings.neurips.cc/paper_files/paper/2025/file/你的hash-Paper-Conference.pdf)
+  - Fan Wang, Pengtao Shao, Yiming Zhang, Bo Yu, Shaoshan Liu, Ning Ding, Yang Cao, Yu Kang, Haifeng Wang
+- [Kernelblaster: Continual Cross-Task CUDA Optimization via Memory-Augmented In-Context Reinforcement Learning](https://arxiv.org/pdf/2602.14293)
+  - Kris Shengjun Dong, Sahil Modi, Dima Nikiforov, Sana Damani, Edward Lin, Siva Kumar Sastry Hari, Christos Kozyrakis
+- [Skill0: In-context agentic reinforcement learning for skill internalization](https://arxiv.org/abs/2604.02268)
+  - Zhengxi Lu, Zhiyuan Yao, Jinyang Wu, Chengcheng Han, Qi Gu, Xunliang Cai, Weiming Lu, Jun Xiao, Yueting Zhuang, Yongliang Shen
+
+
 ### 2025
+- [LLMs are in-context bandit reinforcement learners](https://arxiv.org/abs/2410.05362)
+  - Giovanni Monea, Antoine Bosselut, Kianté Brantley, Yoav Artzi
 - [In-Context Reinforcement Learning via Communicative World Models](https://arxiv.org/abs/2508.06659)
   - Fernando Martinez-Lopez, Tao Li, Yingdong Lu, Juntao Chen
 - [Reward Is Enough: LLMs Are In-Context Reinforcement Learners](https://arxiv.org/abs/2506.06303)
