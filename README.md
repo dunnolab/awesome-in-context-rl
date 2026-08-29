@@ -18,7 +18,7 @@ format:
 ### 2026
 - [Mixture-of-experts meets in-context reinforcement learning](https://proceedings.neurips.cc/paper_files/paper/2025/file/233cbc888ef01917d8d895e471e80a01-Paper-Conference.pdf)
   - Wenhao Wu, Fuhong Liu, Haoru Li, Zican Hu, Daoyi Dong, Chunlin Chen, Zhi Wang
-- [Towards large-scale in-context reinforcement learning by meta-training in randomized worlds](https://proceedings.neurips.cc/paper_files/paper/2025/file/你的hash-Paper-Conference.pdf)
+- [Towards large-scale in-context reinforcement learning by meta-training in randomized worlds](https://proceedings.neurips.cc/paper_files/paper/2025/file/fa9e9b2a5176c6f72e78269087b9fe60-Paper-Conference.pdf)
   - Fan Wang, Pengtao Shao, Yiming Zhang, Bo Yu, Shaoshan Liu, Ning Ding, Yang Cao, Yu Kang, Haifeng Wang
 - [Kernelblaster: Continual Cross-Task CUDA Optimization via Memory-Augmented In-Context Reinforcement Learning](https://arxiv.org/pdf/2602.14293)
   - Kris Shengjun Dong, Sahil Modi, Dima Nikiforov, Sana Damani, Edward Lin, Siva Kumar Sastry Hari, Christos Kozyrakis
